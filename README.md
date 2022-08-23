@@ -10,10 +10,11 @@
     </p>
     <h2>Aptidões e Habilidades</h2>
     <ul>
-        <li>Conhecimento Básico em Javascript (Manipulação do DOM)</li>
-        <li>Conhecimento Intermediário em HTML</li>
-        <li>Conhecimento Intermediário em CSS (Flex-box)</li>
-        <li>Conhecimento básico em Java</li>
+        <li>Conhecimento em Javascript (Manipulação do DOM)</li>
+        <li>Conhecimento em HTML</li>
+        <li>Conhecimento em CSS (Flex-box)</li>
+        <li>Conhecimento em Java</li>
+        <li>Conhecimento em Git</li>
     </ul>
 
    <div>
