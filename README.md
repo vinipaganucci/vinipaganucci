@@ -3,8 +3,8 @@
     <h1>Olá meu nome é Vinicius Vidotto e esse é meu perfil &#x1F44B;</h1>
     <p>
          Sou um desenvolvedor em ascenção com ambição em me tornar um full-stack.
-        Atualmente estudo Java na instituição de ensino Funtec, Ao longo de 4 meses irei desenvolver meu conhecimento
-        nessa linguagem com ajuda dos professores.
+        Atualmente estudo Java na instituição de ensino Funtec, ao longo de 4 meses irei desenvolver meu conhecimento
+        nessa linguagem com ajuda de professores.
         Depois desses 4 meses há a possibilidade de eu já sair empregado e com isso ganhar ainda mais experiência.
         Já morei na Inglaterra por dois anos e aprimorei muito meu inglês lá, consigo falar, escrever e ler em inglês.
     </p>
