@@ -6,7 +6,7 @@
         Atualmente estudo Java na instituição de ensino Funtec, ao longo de 4 meses irei desenvolver meu conhecimento
         nessa linguagem com ajuda de professores.
         Depois desses 4 meses há a possibilidade de eu já sair empregado e com isso ganhar ainda mais experiência.
-        Já morei na Inglaterra por dois anos e aprimorei muito meu inglês lá, consigo falar, escrever e ler em inglês.
+        Já morei na Inglaterra por dois anos e aprimorei muito meu inglês lá, tirei alguns certificados de "speaking and listening" durante minha estadia, consigo falar, escrever e ler em inglês.
     </p>
     <h2>Aptidões e Habilidades</h2>
     <ul>
