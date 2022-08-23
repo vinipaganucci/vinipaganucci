@@ -30,6 +30,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinipaganucci&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinipaganucci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<h2>Portfólio<h2>
      
 <a href="https://vinipaganucci.github.io/Portfolio/" target="_blank"><img src="https://i.pinimg.com/474x/19/86/08/1986080fa9c26cf5104ce1576fdd9f95.jpg" width="150" height="150"></img></a>
     
