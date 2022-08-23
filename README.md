@@ -2,7 +2,7 @@
 <meta charset="UTF-8">
     <h1>Olá meu nome é Vinicius Vidotto e esse é meu perfil &#x1F44B;</h1>
     <p>
-         sou um desenvolvedor em ascenção com ambição em me tornar um full-stack.
+         Sou um desenvolvedor em ascenção com ambição em me tornar um full-stack.
         Atualmente estudo Java na instituição de ensino Funtec, Ao longo de 4 meses irei desenvolver meu conhecimento
         nessa linguagem com ajuda dos professores.
         Depois desses 4 meses há a possibilidade de eu já sair empregado e com isso ganhar ainda mais experiência.
