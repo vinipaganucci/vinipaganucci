@@ -29,7 +29,7 @@
 
 <h2>Portfólio<h2>
      
-<a href="https://vinipaganucci.github.io/Portfolio/" target="_blank"><img src="https://i.pinimg.com/474x/19/86/08/1986080fa9c26cf5104ce1576fdd9f95.jpg" width="150" height="150"></img></a>
+<a href="https://vinipaganucci.github.io/Portfolio/" target="_blank"><img src="https://img.myloview.com.br/posters/folder-of-documents-portfolio-with-files-business-icon-white-400-200834037.jpg" width="150" height="150"></img></a>
     
 </html>
     
