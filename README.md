@@ -11,7 +11,7 @@
         <li>Conhecimento em CSS (Flex-box)</li>
         <li>Conhecimento em Java</li>
         <li>Conhecimento em Git</li>
-        <li>Conhecimento postgresql</li>
+        <li>Conhecimento em postgresql</li>
     </ul>
     <br>
 
