@@ -2,7 +2,7 @@
 <meta charset="UTF-8">
     <h1>Olá meu nome é Vinicius Vidotto e esse é meu perfil &#x1F44B;</h1>
     <p>
-         Sou um desenvolvedor em formação com foco em me tornar um full-stack. Atualmente, estudo a linguagem Java na instituição de ensino Funtec. Durante 4 meses,            com ajuda de professores, participarei de um curso intensivo nessa linguagem. Uma curiosidade minha: morei na Inglaterra no período de 2020 a 2022 e pude praticar muito meu inglês.
+         Sou um desenvolvedor em formação com foco em back-end. morei na Inglaterra no período de 2020 a 2022 e pude praticar muito meu inglês.
     </p>
     <h2>Aptidões e Habilidades</h2>
     <ul>
